@@ -1,3 +1,4 @@
 # demo-project
 this is my first Git Repository
-Author -kirti gokhale
+<br>
+Author -Kirti Gokhale
